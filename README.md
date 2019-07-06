@@ -7,6 +7,7 @@ While you can answer this question by executing 'ls -l' along with other argumen
 Dependencies:
 
 Python 3 (required)
+
 less (highly recommended)
 
 Note:
