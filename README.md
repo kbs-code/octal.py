@@ -1,4 +1,4 @@
-Where are problematic file permissions on my Linux system?  How do I find them?
+Where are the problematic file permissions on my Linux system?  How do I find them?
 While you can answer this question by executing 'ls -l' along with other arguments or pipelines, Octal attempts to improve this process in a couple of ways:
 - by displaying permissions in the octal format
 - providing a useful summary that can be expanded, thus eliminating some tedium
@@ -8,6 +8,10 @@ Dependencies:
 
 Python 3 (required)
 less (highly recommended)
+
+Note:
+
+Only supports regular file and directory file types
 
 from the help menu:
 
